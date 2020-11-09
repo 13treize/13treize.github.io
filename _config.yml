@@ -30,7 +30,7 @@ twitter_username: treize_pk
 github_username:  13treize
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
