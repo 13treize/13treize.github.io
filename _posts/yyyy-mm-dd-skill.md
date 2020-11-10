@@ -1,6 +1,6 @@
 ---
 layout: page
 title:  "skill"
-date:   2020-11-07 16:57:11 +0900
+date:   YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: jekyll update
 ---
