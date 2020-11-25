@@ -4,5 +4,4 @@ title:  "Noise"
 categories: Shader Noise
 ---
 
-##Title
-Tests
+## Noise
